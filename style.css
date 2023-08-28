@@ -1,0 +1,105 @@
+/* first page */
+body{
+    font-family: 'Lato', sans-serif;
+font-family: 'Open Sans', sans-serif;
+font-family: 'Poppins', sans-serif;
+}
+.header{
+    background: rgba(229, 84, 115, 0.10);
+    display: flex; 
+    padding-left: 200px;
+    padding-right: 200px;
+}
+.first-header{ 
+font-size: 40px;
+font-weight: 700;
+padding-top: 200px ;
+color: #272727;
+}
+.text-part{
+    padding-right: 100px;
+}
+.first-para{
+    padding-top: 30px;
+    padding-bottom: 30px;
+    font-size: 15px;
+    font-weight: 300;
+    line-height: 30px;
+    color: #272727;
+}
+.btn-primary{
+    background-color:#E55473;
+    border: none;
+    border-radius: 8px;
+    display: inline-flex;
+    padding: 20px 43px;
+    align-items: flex-start;
+    gap: 10px;
+    color: white;
+}
+.img{
+    width: 200px;
+    height: 400px;  
+}
+.image-part{
+    padding-top: 50px;
+}
+/* second pages */
+.second-part{
+    margin: 100px 500px;
+}
+.second-text{
+    text-align: center;
+}
+.first-container{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    padding-left: 240px;
+    padding-right: 240px;
+}
+.primary-first-flower{
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+    width: 464px;
+    height: 538px; 
+}
+.primary-first-flower>img{
+    width: 310px;
+    height: 428px;
+    position: relative;
+    top: 110px;
+   
+}
+.primary-second-flower{
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(5, 151, 160, 0.15);
+    margin-left: 24px;
+    margin-right: 24px;
+    width: 464px;
+    height: 538px; 
+}
+.primary-second-flower>img{
+    width: 310px;
+    height: 428px;
+    position: relative;
+    top: 110px;
+}
+.primary-third-flower{
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(71, 125, 17, 0.15);
+    width: 464px;
+    height: 538px; 
+}
+.primary-third-flower>img{
+        width: 310px;
+        height: 428px;
+        position: relative;
+        top: 110px;
+    }
+
+#flower-header{
+    text-align: center;
+    text-decoration: underline;
+    color: #272727;
+}
