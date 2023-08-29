@@ -103,3 +103,166 @@ color: #272727;
     text-decoration: underline;
     color: #272727;
 }
+/* third page */
+.second-section-content{
+    display: flex;
+    border-radius: 8px;
+    background: rgba(229, 84, 115, 0.05);
+}
+.second-section-text{
+    text-align: center;
+    padding-top:200px ;
+    padding-bottom: 100px;
+    padding-left: 100px;
+}
+section>div>h3>span{
+    color: #E55473;
+}
+.image-third-part{
+    padding: 100px 100px 50px 100px;
+}
+/* four pages */
+.four-part{
+    margin: 100px 500px;
+}
+.four-text{
+    text-align: center;
+}
+.four-container{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    padding-left: 240px;
+    padding-right: 240px;
+}
+.four-first-flower{
+    width: 464px;
+    height: 538px; 
+}
+.four-first-flower>img{
+    width: 310px;
+    height: 428px;
+    position: relative;
+    top: 110px;
+   
+}
+.four-second-flower{
+    margin-left: 24px;
+    margin-right: 24px;
+    width: 464px;
+    height: 538px; 
+}
+.four-second-flower>img{
+    width: 310px;
+    height: 428px;
+    position: relative;
+    top: 110px;
+}
+.four-third-flower{
+    width: 464px;
+    height: 538px; 
+    margin-right: 24px;
+}
+.four-third-flower>img{
+        width: 310px;
+        height: 428px;
+        position: relative;
+        top: 110px;
+    }
+    .four-four-flower{
+        width: 464px;
+        height: 538px; 
+    }
+    .four-four-flower>img{
+            width: 310px;
+            height: 428px;
+            position: relative;
+            top: 110px;
+        }
+        /* five pages */
+.five-part{
+    margin: 100px 500px;
+}
+.five-text{
+    text-align: center;
+}
+.five-container{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    padding-left: 240px;
+    padding-right: 240px;
+}
+.five-first-flower{
+    border-radius: 500px 500px 500px 500px;
+    background: rgba(167, 33, 98, 0.15);
+    width: 264px;
+    height: 338px; 
+}
+.five-first-flower>img{
+    width: 150px;
+    height: 150px;
+    position: relative;
+    top: 90px;
+   
+}
+.five-second-flower{
+    border-radius: 500px 500px 500px 500px;
+    background: rgba(5, 151, 160, 0.15);
+    margin-left: 24px;
+    margin-right: 24px;
+    width: 264px;
+    height: 338px; 
+}
+.five-second-flower>img{
+    width: 150px;
+    height: 150px;
+    position: relative;
+    top: 90px;
+}
+.five-third-flower{
+    border-radius: 500px 500px 500px 500px;
+    background: rgba(71, 125, 17, 0.15);
+    width: 264px;
+    height: 338px; 
+}
+.five-third-flower>img{
+    width: 150px;
+    height: 150px;
+    position: relative;
+    top: 90px;
+    }
+
+#five-text-header{
+    text-align: center;
+    text-decoration: underline;
+    color: #272727;
+}
+/* six page */
+.six-container{
+    background-image: url(Rectangle\ 9.png);
+    background-repeat: no-repeat;
+    height: 400px;
+    text-align: center;
+    padding-top: 100px;
+    margin: 0px 100px;
+}
+.six-email{
+    display: inline-flex;
+    padding: 20px 43px;
+    align-items: flex-start;
+}
+.footer{
+    text-align: center;
+    background-color: black;
+    height: 400px;
+    color: white;
+    padding-top: 150px;
+}
+footer>div>h2>span{
+    color: #E55473;
+}
+.link{
+    color: #FFFFFF66;
+}
+        
